@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/11/22/xuexiaoban/</loc>
+    
+    <lastmod>2019-05-12T04:02:24.653Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/03/24/tangsign/</loc>
     
     <lastmod>2019-05-12T03:59:40.394Z</lastmod>
@@ -40,13 +47,6 @@
     <loc>http://yoursite.com/2018/12/20/php-dirorfile/</loc>
     
     <lastmod>2019-05-12T00:41:47.123Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/11/22/xuexiaoban/</loc>
-    
-    <lastmod>2019-05-12T00:18:28.993Z</lastmod>
     
   </url>
   
