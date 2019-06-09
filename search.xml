@@ -8,7 +8,7 @@
       <link href="/2019/06/09/photo-map/"/>
       <url>/2019/06/09/photo-map/</url>
       
-        <content type="html"><![CDATA[<p><img src="https://github.com/JIAOBANTANG/photo-map/raw/master/public/readme1.png" alt><br><a id="more"></a><br><a href="https://github.com/JIAOBANTANG/photo-map" target="_blank" rel="noopener">github</a><br><a href="https://photo.treelo.xin" target="_blank" rel="noopener">运行站点</a></p><h3 id="就是为了记录和她一起的日子"><a href="#就是为了记录和她一起的日子" class="headerlink" title="就是为了记录和她一起的日子"></a>就是为了记录和她一起的日子</h3><p>我是一颗蒲公英，在飘着，落脚扎根。<br>在这里渲染一个点，星星满满。<br>总有一天，想去都去，该看都看。</p><p>我记录着，我扩散着，我为她而来，我为她而去。<br>容身之地，欠个容心。<br>我把生活映在了她身上。<br>所以啊！我要和她多去一些地方<br>总想着把她拍的美美哒<br>要去买自拍杆了，想着她不会拒绝和我合影吧<br>我还要去买相机呢<br>…</p><h3 id="带着长长的过去，盼着久久的未来"><a href="#带着长长的过去，盼着久久的未来" class="headerlink" title="带着长长的过去，盼着久久的未来"></a>带着长长的过去，盼着久久的未来</h3><p>能留下一点，在创造一点，健康着快乐着是终极追求。</p><p>…</p><h3 id="我想的是"><a href="#我想的是" class="headerlink" title="我想的是"></a>我想的是</h3><p>我想的是为她专属定制,希望她也会记录着吧</p><h3 id="你好-陌生人"><a href="#你好-陌生人" class="headerlink" title="你好 陌生人"></a>你好 陌生人</h3><p>这一刻，不为别的，你来都来了，看都看了，你也可以去部署啊，能贡献代码那就更感谢你了。<br>希望你生活快乐<br>◕‿-</p><h3 id="建议留给留言区"><a href="#建议留给留言区" class="headerlink" title="建议留给留言区"></a>建议留给留言区</h3>]]></content>
+        <content type="html"><![CDATA[<p><img src="http://cdn.treelo.xin/readme1.png" alt><br><a id="more"></a><br><a href="https://github.com/JIAOBANTANG/photo-map" target="_blank" rel="noopener">github</a><br><a href="https://photo.treelo.xin" target="_blank" rel="noopener">运行站点</a></p><h3 id="就是为了记录和她一起的日子"><a href="#就是为了记录和她一起的日子" class="headerlink" title="就是为了记录和她一起的日子"></a>就是为了记录和她一起的日子</h3><p>我是一颗蒲公英，在飘着，落脚扎根。<br>在这里渲染一个点，星星满满。<br>总有一天，想去都去，该看都看。</p><p>我记录着，我扩散着，我为她而来，我为她而去。<br>容身之地，欠个容心。<br>我把生活映在了她身上。<br>所以啊！我要和她多去一些地方<br>总想着把她拍的美美哒<br>要去买自拍杆了，想着她不会拒绝和我合影吧<br>我还要去买相机呢<br>…</p><h3 id="带着长长的过去，盼着久久的未来"><a href="#带着长长的过去，盼着久久的未来" class="headerlink" title="带着长长的过去，盼着久久的未来"></a>带着长长的过去，盼着久久的未来</h3><p>能留下一点，在创造一点，健康着快乐着是终极追求。</p><p>…</p><h3 id="我想的是"><a href="#我想的是" class="headerlink" title="我想的是"></a>我想的是</h3><p>我想的是为她专属定制,希望她也会记录着吧</p><h3 id="你好-陌生人"><a href="#你好-陌生人" class="headerlink" title="你好 陌生人"></a>你好 陌生人</h3><p>这一刻，不为别的，你来都来了，看都看了，你也可以去部署啊，能贡献代码那就更感谢你了。<br>希望你生活快乐<br>◕‿-</p><h3 id="建议留给留言区"><a href="#建议留给留言区" class="headerlink" title="建议留给留言区"></a>建议留给留言区</h3>]]></content>
       
       
       <categories>
@@ -19,12 +19,6 @@
           
       </categories>
       
-      
-        <tags>
-            
-            <tag> PHP </tag>
-            
-        </tags>
       
     </entry>
     
@@ -198,9 +192,9 @@
       
         <tags>
             
-            <tag> hexo </tag>
-            
             <tag> 宝塔面板 </tag>
+            
+            <tag> hexo </tag>
             
         </tags>
       
@@ -364,11 +358,11 @@
       
         <tags>
             
+            <tag> MySQL </tag>
+            
             <tag> Learn </tag>
             
             <tag> PDO </tag>
-            
-            <tag> MySQL </tag>
             
         </tags>
       
@@ -450,9 +444,9 @@
           
           <category> Coding </category>
           
-          <category> MySQL </category>
-          
           <category> Docker </category>
+          
+          <category> MySQL </category>
           
       </categories>
       
